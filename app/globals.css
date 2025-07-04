@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities"; */
+
+:root {
+  --brand-color: #6E1BF5;
+  --text-dark: #1a1a1a;
+  --text-light: #ffffff;
+  --hover-color: #69F0EF;
+  --font-poppins: 'Poppins', sans-serif;
+}
+/* in globals.css */
+body {
+  background-image: url('/subtle-pattern.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: var(--font-poppins), sans-serif;
+}
+
