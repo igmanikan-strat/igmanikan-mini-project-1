@@ -39,7 +39,7 @@ export default function AboutPage() {
         My hobbies are playing video games, the occassional walk, and cooking. I love playing games 
         since I have started playing as a child and my first game was God of War 2, I know pretty excessive 
         for a young boy but it was just fun. As for the occassional, I like to walk since I can save money instead of using 
-        trikes, plus I can get to places I normally can't, also I love cooking, whether experimenting or following a recipe. 
+        trikes, plus I can get to places I normally cannot, also I love cooking, whether experimenting or following a recipe. 
         It gives me a sense of exploration on taste.
       </p>
     </div>
